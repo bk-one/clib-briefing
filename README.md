@@ -30,7 +30,7 @@ Please check the wireframes folder to see wireframes for the individual pages. T
 
 ## Wireframe: Series Group Page
 
-<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/series_group_page.png" width="300" title="Series Group Page"  style="padding-right: 3em; padding-bottom: 1em; float: left;">
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/series_group_page.png" width="300" align="left" title="Series Group Page"  style="padding-right: 3em; padding-bottom: 1em; float: left;">
 
 A `Series Group` in this project is a collection of all `Series` of a specific comic, e.g. *Spider-Man*, which consists of several `Series`, e.g. *The Amazing Spider-Man, Vol. 1*, *The Amzing Spider-Man, Vol. 2* or *Ultimate Spider-Man, Vol 1*.
 
@@ -41,7 +41,7 @@ A `Series Group` shows general, top-level information, lists all `Series Groups`
 
 ## Wireframe: Series Page
 
-<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/series_page.png" width="300" title="Series Page" style="padding-right: 3em; padding-bottom: 1em; float: left;">
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/series_page.png" width="300" title="Series Page" align="left" style="padding-right: 3em; padding-bottom: 1em; float: left;">
 
 A `Series` is an individual series of a `Series Group`. A typical `Series` is *The Amazing Spider-Man, Vol. 1*, *Batman, Vol. 2 (The New 52)* or *Locke & Key: Welcome to Lovecraft*.
 
@@ -52,7 +52,7 @@ It gives detailed information about the series and will list all issues or `Comi
 
 ### Wireframe: Comic Page
 
-<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/comic_page.png" width="300" title="Series Page"  style="padding-right: 3em; padding-bottom: 1em; float: left;">
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/comic_page.png" width="300" title="Comic Page"  align="left" style="padding-right: 3em; padding-bottom: 1em; float: left;">
 
 The `Comic` is an indivial issue of a `Series`. It belongs to exactly one `Series` but can be in multiple `CollectedEditions`. It focuses on technical aspects of the issue (format, people involved, etc.) and is not meant to be a often visted page.
 
@@ -61,7 +61,7 @@ The `Comic` is an indivial issue of a `Series`. It belongs to exactly one `Serie
 
 ### Wireframe: Collected Edition
 
-<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/collected_edition.png" width="300" title="Series Page"  style="padding-right: 3em; padding-bottom: 1em; float: left;">
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/collected_edition.png" width="300" title="Collected Edition Page"  align="left" style="padding-right: 3em; padding-bottom: 1em; float: left;">
 
 A `Collected Editiom` collects several `Comics` from one or many `Series`. A `Collected Edition` comes in one or several editions, e.g. a Trade Paperback, a Hardcover or an Absolute Edition.
 
