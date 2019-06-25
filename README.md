@@ -24,38 +24,50 @@ The project looks for designers that have a good understanding of the comic book
 * There are no pre-defined color-schemes, but an easy to read version is preferred (light or dark mode) 
 * The design should focus on the content, there is no need for an extensive menu, footer or other navigational elements
 
-## The Wireframes
+# The Wireframes
 
 Please check the wireframes folder to see wireframes for the individual pages. The wireframes are for information design only and are not meant to be a blueprint for the visual design. So you are free to create your own visual design, as long as the majority of the information displayed on the wireframes are kept.
 
-### Wireframe: Series Group Page
+## Wireframe: Series Group Page
 
-<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/series_group_page.png" width="300" title="Series Group Page" align="left" style="padding-right: 3em;">
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/series_group_page.png" width="300" title="Series Group Page"  style="padding-right: 3em; padding-bottom: 1em; float: left;">
 
 A `Series Group` in this project is a collection of all `Series` of a specific comic, e.g. *Spider-Man*, which consists of several `Series`, e.g. *The Amazing Spider-Man, Vol. 1*, *The Amzing Spider-Man, Vol. 2* or *Ultimate Spider-Man, Vol 1*.
 
 A `Series Group` shows general, top-level information, lists all `Series Groups` and might highlight some `Collected Editions`.
 
 
+<p style="clear: both;" />
 
-### Wireframe: Series Page
+## Wireframe: Series Page
 
-<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/series_page.png" width="300" title="Series Page" align="left" style="padding-right: 3em;">
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/series_page.png" width="300" title="Series Page" style="padding-right: 3em; padding-bottom: 1em; float: left;">
 
 A `Series` is an individual series of a `Series Group`. A typical `Series` is *The Amazing Spider-Man, Vol. 1*, *Batman, Vol. 2 (The New 52)* or *Locke & Key: Welcome to Lovecraft*.
 
-It gives detailed information about the series and will 
+It gives detailed information about the series and will list all issues or `Comics`, as well as colleced editions of the `Series`. The page itself will never list all issues, additional sub-pages will be developed to show a list of all issues. 
+
+<p style="clear: both;" />
 
 
 ### Wireframe: Comic Page
 
-<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/comic_page.png" width="300" title="Series Page" align="left" style="padding-right: 3em;">
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/comic_page.png" width="300" title="Series Page"  style="padding-right: 3em; padding-bottom: 1em; float: left;">
 
+The `Comic` is an indivial issue of a `Series`. It belongs to exactly one `Series` but can be in multiple `CollectedEditions`. It focuses on technical aspects of the issue (format, people involved, etc.) and is not meant to be a often visted page.
+
+
+<p style="clear: both;" />
 
 ### Wireframe: Collected Edition
 
-<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/collected_edition.png" width="300" title="Series Page" align="left" style="padding-right: 3em;">
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/collected_edition.png" width="300" title="Series Page"  style="padding-right: 3em; padding-bottom: 1em; float: left;">
 
+A `Collected Editiom` collects several `Comics` from one or many `Series`. A `Collected Edition` comes in one or several editions, e.g. a Trade Paperback, a Hardcover or an Absolute Edition.
+
+
+
+<p style="clear: both;" />
 
 ## Submission Rules
 
@@ -84,10 +96,9 @@ Please see this sample structure:
 ### Recommendations on submition
 
 * Iterative work is encouraged, submit early and incremental
-* Incorporate other community work (e.g. from deviantart )
+* The wireframes are created via moqups.com and are using their standard stencils. The stencils are not meant to be design guidelines
+* Incorporate other community work (e.g. from deviantart)
 * You are free to incorporate your own ideas and information, e.g. reviews, podcasts or videos
 * You don't have to submit all pages, just one or two example pages that you're most comforatble with is a great start
 * Readablity is more important than information overload
-
-
 
