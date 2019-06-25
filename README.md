@@ -30,29 +30,31 @@ Please check the wireframes folder to see wireframes for the individual pages. T
 
 ### Wireframe: Series Group Page
 
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/series_group_page.png" width="300" title="Series Group Page" align="left" style="padding-right: 3em;">
+
 A `Series Group` in this project is a collection of all `Series` of a specific comic, e.g. *Spider-Man*, which consists of several `Series`, e.g. *The Amazing Spider-Man, Vol. 1*, *The Amzing Spider-Man, Vol. 2* or *Ultimate Spider-Man, Vol 1*.
 
 A `Series Group` shows general, top-level information, lists all `Series Groups` and might highlight some `Collected Editions`.
 
-![Series Group Page](wireframes/series_group_page.png)
 
 
 ### Wireframe: Series Page
+
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/series_page.png" width="300" title="Series Page" align="left" style="padding-right: 3em;">
 
 A `Series` is an individual series of a `Series Group`. A typical `Series` is *The Amazing Spider-Man, Vol. 1*, *Batman, Vol. 2 (The New 52)* or *Locke & Key: Welcome to Lovecraft*.
 
 It gives detailed information about the series and will 
 
-![Series Page](wireframes/series_page.png)
-
 
 ### Wireframe: Comic Page
 
-![Comic Page](wireframes/comic_page.png)
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/comic_page.png" width="300" title="Series Page" align="left" style="padding-right: 3em;">
+
 
 ### Wireframe: Collected Edition
 
-![Comic Page](wireframes/collected_edition.png)
+<img src="https://github.com/bk-one/clib-briefing/blob/master/wireframes/collected_edition.png" width="300" title="Series Page" align="left" style="padding-right: 3em;">
 
 
 ## Submission Rules
