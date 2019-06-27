@@ -1,6 +1,6 @@
 # The Comic Book Library Project - Design Briefing
 
-The Comic Book Library Project aims to create a modern interface to display comic book information. It is an open source and community based projects at a very early stage. This call for design repositroy aims to get design varations to create a working prototype.
+The Comic Book Library Project aims to create a modern interface to display comic book information. It is an open source and community based projects at a very early stage. This call for design repository aims to get design varations to create a working prototype.
 
 ## Background and Goal
 
